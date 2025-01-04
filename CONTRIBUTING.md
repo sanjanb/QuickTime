@@ -45,6 +45,6 @@ Follow the code style used in the project.
 Write meaningful commit messages.
 Document your changes in the pull request.
 Questions
-For any questions, feel free to create an issue or reach out at [your-email@example.com].
+For any questions, feel free to create an issue or reach out at [teamgsigroup@gmail.com].
 
 
